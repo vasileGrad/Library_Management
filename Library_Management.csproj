@@ -1,0 +1,388 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{748CF802-D6A7-4AC1-A7E1-F17D29ECBC09}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Library_Management</RootNamespace>
+    <AssemblyName>Library_Management</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\VASILE\Desktop\Library Management System - Grad Vasile Info II\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>false</MapFileExtensions>
+    <ApplicationRevision>20</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>favicon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Library_Management.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>61126261A94C6184F18C2F54899AE86C82E48F03</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Library_Management_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin_admin\change_password_admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_admin\change_password_admin.Designer.cs">
+      <DependentUpon>change_password_admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_books\view_update_books.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_books\view_update_books.Designer.cs">
+      <DependentUpon>view_update_books.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_books\add_books.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_books\add_books.Designer.cs">
+      <DependentUpon>add_books.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_users\delete_users.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_users\delete_users.Designer.cs">
+      <DependentUpon>delete_users.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_users\view_update_users.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_users\view_update_users.Designer.cs">
+      <DependentUpon>view_update_users.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_users\add_users.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_users\add_users.Designer.cs">
+      <DependentUpon>add_users.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_home.Designer.cs">
+      <DependentUpon>admin_home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_activity\user_borrow_return_books.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_activity\user_borrow_return_books.Designer.cs">
+      <DependentUpon>user_borrow_return_books.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_activity\borrow_question.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_activity\borrow_question.Designer.cs">
+      <DependentUpon>borrow_question.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_activity\return_question.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_activity\return_question.Designer.cs">
+      <DependentUpon>return_question.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_activity\return_books.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_activity\return_books.Designer.cs">
+      <DependentUpon>return_books.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_activity\books_borrowed.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_activity\books_borrowed.Designer.cs">
+      <DependentUpon>books_borrowed.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_activity\change_password.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User_activity\change_password.Designer.cs">
+      <DependentUpon>change_password.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Config.cs" />
+    <Compile Include="Admin_books\delete_books.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_books\delete_books.Designer.cs">
+      <DependentUpon>delete_books.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_books\update_books.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_books\update_books.Designer.cs">
+      <DependentUpon>update_books.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_activity\view_books.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User_activity\view_books.Designer.cs">
+      <DependentUpon>view_books.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Start.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Start.Designer.cs">
+      <DependentUpon>Start.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Admin_users\update_users.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_users\update_users.Designer.cs">
+      <DependentUpon>update_users.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_books\search_books.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_books\search_books.Designer.cs">
+      <DependentUpon>search_books.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_activity\borrow_return_books.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_activity\borrow_return_books.Designer.cs">
+      <DependentUpon>borrow_return_books.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_activity\borrow_books.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_activity\borrow_books.Designer.cs">
+      <DependentUpon>borrow_books.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_activity\book_users.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_activity\book_users.Designer.cs">
+      <DependentUpon>book_users.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_activity\view_details_books.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User_activity\view_details_books.Designer.cs">
+      <DependentUpon>view_details_books.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_activity\your_account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User_activity\your_account.Designer.cs">
+      <DependentUpon>your_account.cs</DependentUpon>
+    </Compile>
+    <Compile Include="user_home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="user_home.Designer.cs">
+      <DependentUpon>user_home.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Admin_admin\change_password_admin.resx">
+      <DependentUpon>change_password_admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_books\view_update_books.resx">
+      <DependentUpon>view_update_books.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_books\add_books.resx">
+      <DependentUpon>add_books.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_users\delete_users.resx">
+      <DependentUpon>delete_users.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_users\view_update_users.resx">
+      <DependentUpon>view_update_users.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_users\add_users.resx">
+      <DependentUpon>add_users.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_home.resx">
+      <DependentUpon>admin_home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_books\delete_books.resx">
+      <DependentUpon>delete_books.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_activity\user_borrow_return_books.resx">
+      <DependentUpon>user_borrow_return_books.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_activity\borrow_question.resx">
+      <DependentUpon>borrow_question.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_activity\return_question.resx">
+      <DependentUpon>return_question.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_activity\return_books.resx">
+      <DependentUpon>return_books.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_activity\books_borrowed.resx">
+      <DependentUpon>books_borrowed.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_activity\change_password.resx">
+      <DependentUpon>change_password.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_books\update_books.resx">
+      <DependentUpon>update_books.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_activity\view_books.resx">
+      <DependentUpon>view_books.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Start.resx">
+      <DependentUpon>Start.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_users\update_users.resx">
+      <DependentUpon>update_users.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_books\search_books.resx">
+      <DependentUpon>search_books.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_activity\borrow_return_books.resx">
+      <DependentUpon>borrow_return_books.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_activity\borrow_books.resx">
+      <DependentUpon>borrow_books.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_activity\book_users.resx">
+      <DependentUpon>book_users.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_activity\view_details_books.resx">
+      <DependentUpon>view_details_books.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_activity\your_account.resx">
+      <DependentUpon>your_account.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="user_home.resx">
+      <DependentUpon>user_home.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Library_Management_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="favicon.ico" />
+    <Content Include="Library.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Library_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>Library.mdf</DependentUpon>
+    </Content>
+    <Content Include="Resources\favicon.ico" />
+    <Content Include="Resources\logout.png" />
+    <Content Include="Resources\no image.png" />
+    <Content Include="Resources\noimage.png" />
+    <Content Include="Resources\no_book.png" />
+    <None Include="Resources\no image1.png" />
+    <None Include="Resources\library.logo3.png" />
+    <None Include="Resources\LibraryFocusedBackground.jpg" />
+    <None Include="Resources\BlueTransparent.jpg" />
+    <None Include="Resources\LibraryBackground3.jpg" />
+    <None Include="Resources\LibraryBackground2.jpg" />
+    <None Include="Resources\LibraryBackground1.jpg" />
+    <None Include="Resources\LibraryBackground.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

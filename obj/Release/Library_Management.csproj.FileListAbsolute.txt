@@ -1,0 +1,14 @@
+C:\Users\VASILE\Documents\Visual Studio 2015\Projects\Library_Management\Library_Management\obj\Release\Library_Management.add_books.resources
+C:\Users\VASILE\Documents\Visual Studio 2015\Projects\Library_Management\Library_Management\obj\Release\Library_Management.add_users.resources
+C:\Users\VASILE\Documents\Visual Studio 2015\Projects\Library_Management\Library_Management\obj\Release\Library_Management.admin_home.resources
+C:\Users\VASILE\Documents\Visual Studio 2015\Projects\Library_Management\Library_Management\obj\Release\Library_Management.Login.resources
+C:\Users\VASILE\Documents\Visual Studio 2015\Projects\Library_Management\Library_Management\obj\Release\Library_Management.search_book.resources
+C:\Users\VASILE\Documents\Visual Studio 2015\Projects\Library_Management\Library_Management\obj\Release\Library_Management.Start.resources
+C:\Users\VASILE\Documents\Visual Studio 2015\Projects\Library_Management\Library_Management\obj\Release\Library_Management.Properties.Resources.resources
+C:\Users\VASILE\Documents\Visual Studio 2015\Projects\Library_Management\Library_Management\obj\Release\Library_Management.update_book.resources
+C:\Users\VASILE\Documents\Visual Studio 2015\Projects\Library_Management\Library_Management\obj\Release\Library_Management.user_home.resources
+C:\Users\VASILE\Documents\Visual Studio 2015\Projects\Library_Management\Library_Management\obj\Release\Library_Management.view_books.resources
+C:\Users\VASILE\Documents\Visual Studio 2015\Projects\Library_Management\Library_Management\obj\Release\Library_Management.csproj.GenerateResource.Cache
+C:\Users\VASILE\Documents\Visual Studio 2015\Projects\Library_Management\Library_Management\obj\Release\Library_Management.exe.manifest
+C:\Users\VASILE\Documents\Visual Studio 2015\Projects\Library_Management\Library_Management\obj\Release\Library_Management.exe
+C:\Users\VASILE\Documents\Visual Studio 2015\Projects\Library_Management\Library_Management\obj\Release\Library_Management.pdb

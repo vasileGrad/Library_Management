@@ -1,0 +1,80 @@
+c:\users\vasile\documents\visual studio 2015\Projects\Library_Management\Library_Management\bin\Debug\Library_Management.exe
+c:\users\vasile\documents\visual studio 2015\Projects\Library_Management\Library_Management\bin\Debug\Library_Management.pdb
+c:\users\vasile\documents\visual studio 2015\Projects\Library_Management\Library_Management\obj\Debug\Library_Management.csprojResolveAssemblyReference.cache
+c:\users\vasile\documents\visual studio 2015\Projects\Library_Management\Library_Management\obj\Debug\Library_Management.Properties.Resources.resources
+c:\users\vasile\documents\visual studio 2015\Projects\Library_Management\Library_Management\obj\Debug\Library_Management.csproj.GenerateResource.Cache
+c:\users\vasile\documents\visual studio 2015\Projects\Library_Management\Library_Management\obj\Debug\Library_Management.exe
+c:\users\vasile\documents\visual studio 2015\Projects\Library_Management\Library_Management\obj\Debug\Library_Management.pdb
+c:\users\vasile\documents\visual studio 2015\Projects\Library_Management\Library_Management\obj\Debug\Library_Management.Start.resources
+c:\users\vasile\documents\visual studio 2015\Projects\Library_Management\Library_Management\obj\Debug\Library_Management.Login.resources
+C:\Users\VASILE\Documents\Visual Studio 2015\Projects\Library_Management\Library_Management\obj\Debug\Library_Management.admin_home.resources
+C:\Users\VASILE\documents\visual studio 2015\Projects\Library_Management\Library_Management\obj\Debug\Library_Management.add_books.resources
+C:\Users\VASILE\documents\visual studio 2015\Projects\Library_Management\Library_Management\obj\Debug\Library_Management.view_books.resources
+C:\Users\VASILE\Documents\Visual Studio 2015\Projects\Library_Management\Library_Management\bin\Debug\Library.mdf
+C:\Users\VASILE\Documents\Visual Studio 2015\Projects\Library_Management\Library_Management\bin\Debug\Library_log.ldf
+C:\Users\VASILE\Documents\Visual Studio 2015\Projects\Library_Management\Library_Management\obj\Debug\Library_Management.user_home.resources
+C:\Users\VASILE\Documents\Visual Studio 2015\Projects\Library_Management\Library_Management\bin\Debug\Library_Management.exe.manifest
+C:\Users\VASILE\Documents\Visual Studio 2015\Projects\Library_Management\Library_Management\bin\Debug\Library_Management.application
+C:\Users\VASILE\Documents\Visual Studio 2015\Projects\Library_Management\Library_Management\obj\Debug\Library_Management.exe.manifest
+C:\Users\VASILE\Documents\Visual Studio 2015\Projects\Library_Management\Library_Management\obj\Debug\Library_Management.application
+C:\Users\VASILE\Documents\Visual Studio 2015\Projects\Library_Management\Library_Management\obj\Debug\Library_Management.add_users.resources
+C:\Users\VASILE\Documents\Visual Studio 2015\Projects\Library_Management\Library_Management\obj\Debug\Library_Management.update_users.resources
+C:\Users\VASILE\Documents\Visual Studio 2015\Projects\Library_Management\Library_Management\obj\Debug\Library_Management.view_update_users.resources
+C:\Users\VASILE\Documents\Visual Studio 2015\Projects\Library_Management\Library_Management\obj\Debug\Library_Management.delete_users.resources
+C:\Users\VASILE\Documents\Visual Studio 2015\Projects\Library_Management\Library_Management\obj\Debug\Library_Management.search_books.resources
+C:\Users\VASILE\Documents\Visual Studio 2015\Projects\Library_Management\Library_Management\obj\Debug\Library_Management.update_books.resources
+C:\Users\VASILE\Documents\Visual Studio 2015\Projects\Library_Management\Library_Management\obj\Debug\Library_Management.view_update_books.resources
+C:\Users\VASILE\Documents\Visual Studio 2015\Projects\Library_Management\Library_Management\obj\Debug\Library_Management.delete_books.resources
+C:\Users\VASILE\Documents\Visual Studio 2015\Projects\Library_Management\Library_Management\obj\Debug\Library_Management.borrow_return_books.resources
+C:\Users\VASILE\Documents\Visual Studio 2015\Projects\Library_Management\Library_Management\obj\Debug\Library_Management.user_borrow_return_books.resources
+C:\Users\VASILE\Documents\Visual Studio 2015\Projects\Library_Management\Library_Management\obj\Debug\Library_Management.borrow_question.resources
+C:\Users\VASILE\Documents\Visual Studio 2015\Projects\Library_Management\Library_Management\obj\Debug\Library_Management.borrow_books.resources
+C:\Users\VASILE\Documents\Visual Studio 2015\Projects\Library_Management\Library_Management\obj\Debug\Library_Management.return_books.resources
+C:\Users\VASILE\Documents\Visual Studio 2015\Projects\Library_Management\Library_Management\obj\Debug\Library_Management.return_question.resources
+C:\Users\VASILE\Documents\Visual Studio 2015\Projects\Library_Management\Library_Management\obj\Debug\Library_Management.books_borrowed.resources
+C:\Users\VASILE\Documents\Visual Studio 2015\Projects\Library_Management\Library_Management\obj\Debug\Library_Management.book_users.resources
+C:\Users\VASILE\Documents\Visual Studio 2015\Projects\Library_Management\Library_Management\obj\Debug\Library_Management.your_account.resources
+C:\Users\VASILE\Documents\Visual Studio 2015\Projects\Library_Management\Library_Management\obj\Debug\Library_Management.view_details_books.resources
+C:\Users\VASILE\Documents\Visual Studio 2015\Projects\Library_Management\Library_Management\obj\Debug\Library_Management.change_password.resources
+C:\Users\VASILE\Documents\Visual Studio 2015\Projects\Library_Management\Library_Management\obj\Debug\Library_Management.change_password_admin.resources
+C:\Users\VASILE\Desktop\New folder (2)\Library_Management\Library_Management\obj\Debug\Library_Management.exe
+C:\Users\VASILE\Desktop\New folder (2)\Library_Management\Library_Management\obj\Debug\Library_Management.pdb
+C:\Users\VASILE\Desktop\Proiect individual 2017 - Grad Vasile INFO II, sem. I\Visual Studio 2015- Library\Library_Management\obj\Debug\Library_Management.exe
+C:\Users\VASILE\Desktop\Proiect individual 2017 - Grad Vasile INFO II, sem. I\Visual Studio 2015- Library\Library_Management\obj\Debug\Library_Management.pdb
+C:\Users\VASILE\Desktop\Proiect individual 2017 - Grad Vasile INFO II, sem. I\Visual Studio 2015- Library\Library_Management\bin\Debug\Library.mdf
+C:\Users\VASILE\Desktop\Proiect individual 2017 - Grad Vasile INFO II, sem. I\Visual Studio 2015- Library\Library_Management\bin\Debug\Library_log.ldf
+C:\Users\VASILE\Desktop\Proiect individual 2017 - Grad Vasile INFO II, sem. I\Visual Studio 2015- Library\Library_Management\bin\Debug\Library_Management.exe.manifest
+C:\Users\VASILE\Desktop\Proiect individual 2017 - Grad Vasile INFO II, sem. I\Visual Studio 2015- Library\Library_Management\bin\Debug\Library_Management.application
+C:\Users\VASILE\Desktop\Proiect individual 2017 - Grad Vasile INFO II, sem. I\Visual Studio 2015- Library\Library_Management\bin\Debug\Library_Management.exe
+C:\Users\VASILE\Desktop\Proiect individual 2017 - Grad Vasile INFO II, sem. I\Visual Studio 2015- Library\Library_Management\bin\Debug\Library_Management.pdb
+C:\Users\VASILE\Desktop\Proiect individual 2017 - Grad Vasile INFO II, sem. I\Visual Studio 2015- Library\Library_Management\obj\Debug\Library_Management.csprojResolveAssemblyReference.cache
+C:\Users\VASILE\Desktop\Proiect individual 2017 - Grad Vasile INFO II, sem. I\Visual Studio 2015- Library\Library_Management\obj\Debug\Library_Management.change_password_admin.resources
+C:\Users\VASILE\Desktop\Proiect individual 2017 - Grad Vasile INFO II, sem. I\Visual Studio 2015- Library\Library_Management\obj\Debug\Library_Management.view_update_books.resources
+C:\Users\VASILE\Desktop\Proiect individual 2017 - Grad Vasile INFO II, sem. I\Visual Studio 2015- Library\Library_Management\obj\Debug\Library_Management.add_books.resources
+C:\Users\VASILE\Desktop\Proiect individual 2017 - Grad Vasile INFO II, sem. I\Visual Studio 2015- Library\Library_Management\obj\Debug\Library_Management.delete_users.resources
+C:\Users\VASILE\Desktop\Proiect individual 2017 - Grad Vasile INFO II, sem. I\Visual Studio 2015- Library\Library_Management\obj\Debug\Library_Management.view_update_users.resources
+C:\Users\VASILE\Desktop\Proiect individual 2017 - Grad Vasile INFO II, sem. I\Visual Studio 2015- Library\Library_Management\obj\Debug\Library_Management.add_users.resources
+C:\Users\VASILE\Desktop\Proiect individual 2017 - Grad Vasile INFO II, sem. I\Visual Studio 2015- Library\Library_Management\obj\Debug\Library_Management.admin_home.resources
+C:\Users\VASILE\Desktop\Proiect individual 2017 - Grad Vasile INFO II, sem. I\Visual Studio 2015- Library\Library_Management\obj\Debug\Library_Management.delete_books.resources
+C:\Users\VASILE\Desktop\Proiect individual 2017 - Grad Vasile INFO II, sem. I\Visual Studio 2015- Library\Library_Management\obj\Debug\Library_Management.user_borrow_return_books.resources
+C:\Users\VASILE\Desktop\Proiect individual 2017 - Grad Vasile INFO II, sem. I\Visual Studio 2015- Library\Library_Management\obj\Debug\Library_Management.borrow_question.resources
+C:\Users\VASILE\Desktop\Proiect individual 2017 - Grad Vasile INFO II, sem. I\Visual Studio 2015- Library\Library_Management\obj\Debug\Library_Management.return_question.resources
+C:\Users\VASILE\Desktop\Proiect individual 2017 - Grad Vasile INFO II, sem. I\Visual Studio 2015- Library\Library_Management\obj\Debug\Library_Management.return_books.resources
+C:\Users\VASILE\Desktop\Proiect individual 2017 - Grad Vasile INFO II, sem. I\Visual Studio 2015- Library\Library_Management\obj\Debug\Library_Management.books_borrowed.resources
+C:\Users\VASILE\Desktop\Proiect individual 2017 - Grad Vasile INFO II, sem. I\Visual Studio 2015- Library\Library_Management\obj\Debug\Library_Management.change_password.resources
+C:\Users\VASILE\Desktop\Proiect individual 2017 - Grad Vasile INFO II, sem. I\Visual Studio 2015- Library\Library_Management\obj\Debug\Library_Management.Login.resources
+C:\Users\VASILE\Desktop\Proiect individual 2017 - Grad Vasile INFO II, sem. I\Visual Studio 2015- Library\Library_Management\obj\Debug\Library_Management.update_books.resources
+C:\Users\VASILE\Desktop\Proiect individual 2017 - Grad Vasile INFO II, sem. I\Visual Studio 2015- Library\Library_Management\obj\Debug\Library_Management.view_books.resources
+C:\Users\VASILE\Desktop\Proiect individual 2017 - Grad Vasile INFO II, sem. I\Visual Studio 2015- Library\Library_Management\obj\Debug\Library_Management.Start.resources
+C:\Users\VASILE\Desktop\Proiect individual 2017 - Grad Vasile INFO II, sem. I\Visual Studio 2015- Library\Library_Management\obj\Debug\Library_Management.Properties.Resources.resources
+C:\Users\VASILE\Desktop\Proiect individual 2017 - Grad Vasile INFO II, sem. I\Visual Studio 2015- Library\Library_Management\obj\Debug\Library_Management.update_users.resources
+C:\Users\VASILE\Desktop\Proiect individual 2017 - Grad Vasile INFO II, sem. I\Visual Studio 2015- Library\Library_Management\obj\Debug\Library_Management.search_books.resources
+C:\Users\VASILE\Desktop\Proiect individual 2017 - Grad Vasile INFO II, sem. I\Visual Studio 2015- Library\Library_Management\obj\Debug\Library_Management.borrow_return_books.resources
+C:\Users\VASILE\Desktop\Proiect individual 2017 - Grad Vasile INFO II, sem. I\Visual Studio 2015- Library\Library_Management\obj\Debug\Library_Management.borrow_books.resources
+C:\Users\VASILE\Desktop\Proiect individual 2017 - Grad Vasile INFO II, sem. I\Visual Studio 2015- Library\Library_Management\obj\Debug\Library_Management.book_users.resources
+C:\Users\VASILE\Desktop\Proiect individual 2017 - Grad Vasile INFO II, sem. I\Visual Studio 2015- Library\Library_Management\obj\Debug\Library_Management.view_details_books.resources
+C:\Users\VASILE\Desktop\Proiect individual 2017 - Grad Vasile INFO II, sem. I\Visual Studio 2015- Library\Library_Management\obj\Debug\Library_Management.your_account.resources
+C:\Users\VASILE\Desktop\Proiect individual 2017 - Grad Vasile INFO II, sem. I\Visual Studio 2015- Library\Library_Management\obj\Debug\Library_Management.user_home.resources
+C:\Users\VASILE\Desktop\Proiect individual 2017 - Grad Vasile INFO II, sem. I\Visual Studio 2015- Library\Library_Management\obj\Debug\Library_Management.csproj.GenerateResource.Cache
+C:\Users\VASILE\Desktop\Proiect individual 2017 - Grad Vasile INFO II, sem. I\Visual Studio 2015- Library\Library_Management\obj\Debug\Library_Management.exe.manifest
+C:\Users\VASILE\Desktop\Proiect individual 2017 - Grad Vasile INFO II, sem. I\Visual Studio 2015- Library\Library_Management\obj\Debug\Library_Management.application
